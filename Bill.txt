@@ -1,0 +1,9 @@
+WELCOME TO HERITAGE SUPERMARKET
+..............................................................................
+Your bill no. is 7
+The total is : 0
+The amount paid is : -1
+The balance is : -1
+
+..............................................................................
+THANK YOU. PLEASE VISIT AGAIN
